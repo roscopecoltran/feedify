@@ -1,4 +1,4 @@
-package context
+package contextor
 
 import (
 	"github.com/astaxie/beego/context"
