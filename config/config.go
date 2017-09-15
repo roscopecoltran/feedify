@@ -8,7 +8,7 @@ import (
 var (
 	configPath string
 	httpPort   int
-	conf       config.ConfigContainer
+	conf       config.Config
 )
 
 func InitConfig() {
