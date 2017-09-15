@@ -3,7 +3,7 @@ package graph
 import (
 	"errors"
 	"github.com/barakmich/glog"
-	"github.com/feedlabs/feedify/graph/entity"
+	"github.com/roscopecoltran/feedify/graph/entity"
 )
 
 // A Props is a set of key/value properties.

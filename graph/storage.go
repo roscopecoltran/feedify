@@ -2,8 +2,8 @@ package graph
 
 import (
 	"errors"
-	"github.com/feedlabs/feedify/config"
-	"github.com/feedlabs/feedify/graph/entity"
+	"github.com/roscopecoltran/feedify/config"
+	"github.com/roscopecoltran/feedify/graph/entity"
 )
 
 type GraphStorage struct {

@@ -10,8 +10,8 @@ what should be done
 Create symbolic link from you directory to `GOPATH`
 ```
 cd to-your-project
-mkdir -p $GOPATH/src/github.com/feedlabs
-ln -s $(pwd) $GOPATH/src/github.com/feedlabs/feedify
+mkdir -p $GOPATH/src/github.com/roscopecoltran
+ln -s $(pwd) $GOPATH/src/github.com/roscopecoltran/feedify
 ```
 
 #### Dependencies

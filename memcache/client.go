@@ -3,7 +3,7 @@ package memcache
 import (
 	"github.com/bradfitz/gomemcache/memcache"
 
-	"github.com/feedlabs/feedify/config"
+	"github.com/roscopecoltran/feedify/config"
 )
 
 type MemcacheClient struct {

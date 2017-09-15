@@ -9,9 +9,9 @@ import (
 	"github.com/astaxie/beego"
 
 	// feedify packages
-	"github.com/feedlabs/feedify/config"
-	_ "github.com/feedlabs/feedify/stream/adapter/message"
-	_ "github.com/feedlabs/feedify/graph/adapter"
+	"github.com/roscopecoltran/feedify/config"
+	_ "github.com/roscopecoltran/feedify/stream/adapter/message"
+	_ "github.com/roscopecoltran/feedify/graph/adapter"
 )
 
 func GetConfigKey(key string) string {

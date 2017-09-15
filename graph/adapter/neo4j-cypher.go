@@ -5,9 +5,9 @@ import (
 
 	"github.com/jmcvetta/neoism"
 
-	"github.com/feedlabs/feedify/neo4j"
-	"github.com/feedlabs/feedify/graph"
-	"github.com/feedlabs/feedify/graph/entity"
+	"github.com/roscopecoltran/feedify/neo4j"
+	"github.com/roscopecoltran/feedify/graph"
+	"github.com/roscopecoltran/feedify/graph/entity"
 )
 
 const (

@@ -2,7 +2,7 @@ package feedify
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/feedlabs/feedify/context"
+	"github.com/roscopecoltran/feedify/context"
 )
 
 type Controller struct {

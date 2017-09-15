@@ -5,7 +5,7 @@ import (
 
 	"github.com/jmcvetta/neoism"
 
-	"github.com/feedlabs/feedify/config"
+	"github.com/roscopecoltran/feedify/config"
 )
 
 type Neo4jClient struct {

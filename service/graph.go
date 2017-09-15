@@ -3,7 +3,7 @@ package service
 import (
 	"errors"
 
-	"github.com/feedlabs/feedify/graph"
+	"github.com/roscopecoltran/feedify/graph"
 )
 
 type GraphService struct {

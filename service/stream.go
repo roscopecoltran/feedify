@@ -2,7 +2,7 @@ package service
 
 import (
 	"errors"
-	"github.com/feedlabs/feedify/stream"
+	"github.com/roscopecoltran/feedify/stream"
 )
 
 type StreamService struct {
